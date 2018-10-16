@@ -1,0 +1,6 @@
+{
+	"downloadUrl": "http://10.0.2.2:8080/xc.apk",
+	"versionCode": "2",
+	"versionDes": "Welcome to use 2.0,please download",
+	"versionName": "2.0"
+}
